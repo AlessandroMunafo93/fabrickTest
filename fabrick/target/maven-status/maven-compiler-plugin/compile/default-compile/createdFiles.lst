@@ -1,0 +1,13 @@
+fabrick\request\API\Creditor.class
+fabrick\request\BasicRequest.class
+fabrick\response\API\Type.class
+fabrick\request\API\CreateMoneyTransfer.class
+fabrick\request\API\TaxRelief.class
+fabrick\request\API\LegalPersonBeneficiary.class
+fabrick\response\API\PayloadBalance.class
+fabrick\response\API\Transaction.class
+fabrick\service\FabrickService.class
+fabrick\request\API\Account.class
+fabrick\request\API\NaturalPersonBeneficiary.class
+fabrick\request\BankTransferRequest.class
+fabrick\response\BankTransferResponse.class
